@@ -1,0 +1,9 @@
+node_modules/
+sample/
+src/
+tests/
+.eslintrc.js
+CHANGELOG.md
+CONTRIBUTING.md
+package-lock.json
+webpack.config.js
